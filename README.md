@@ -7,3 +7,5 @@ I'm a computer science student out of New Mexico. I started programming at a ver
 [![Maxson's Github Stats](https://github-readme-stats.vercel.app/api?username=v-maxson&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-maxson&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Maxson's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vmaxson&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
