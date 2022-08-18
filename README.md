@@ -10,4 +10,4 @@ I've privated *most* of my repositories, including some with stars and forks, if
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-maxson&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Maxson's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vmaxson&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Maxson's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vmaxson&theme=dark&langs_count=5&custom_title=Most%20Used%20Languages%20%28Last%207%20Days%29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
