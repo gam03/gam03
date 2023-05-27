@@ -9,3 +9,5 @@ I've privated *most* of my repositories, including some with stars and forks, if
 [![Maxson's Github Stats](https://github-readme-stats.vercel.app/api?username=v-maxson&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-maxson&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/238468249472335872)](https://discord.com/users/238468249472335872)
