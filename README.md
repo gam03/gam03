@@ -1,4 +1,4 @@
-### Hey :wave:, I'm Maxson!
+### Hey :wave:, I'm Graeme!
 
 I'm always trying to learn new things,and most of the repositories on this profile have to do with some sort of exploration into a certain technology, whether that be reverse engineering, emulation, web development, etc. 
 
